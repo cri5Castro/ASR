@@ -12,3 +12,6 @@ SNMP.
 
 #### Arquitectura SNMP
 ![snmp](https://user-images.githubusercontent.com/22998708/53384543-e0940d00-3940-11e9-832a-7fc16d052b61.PNG)
+
+### Interfaz principal - Práctica 01
+![interfaz principal](https://user-images.githubusercontent.com/22998708/53431587-198bba80-39f1-11e9-99b6-d3f4fe84d366.png)
